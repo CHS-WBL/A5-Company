@@ -1,9 +1,9 @@
 Questions
 
 1. What is your project idea (as decided by your team and approved by your teacher)?
-
+ Target product charity donantion
 2. What kind of website is it (Community, Existing Industry, Startup)?
-
+It is a Existing Industry
 3. What problem does your project solve?
 
 4. Is it a “vitamin” or a “painkiller”? Why?
